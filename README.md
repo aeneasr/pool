@@ -12,4 +12,4 @@ detailed documentation on [pkg.go.dev/github.com/aeneasr/pool](https://pkg.go.de
 ## `Map`
 
 `Map` manipulates a slice and transforms it to a slice of another type concurrently. For runnable examples please
-check [pkg.go.dev/github.com/aeneasr/pool#Map](https://pkg.go.dev/github.com/aeneasr/pool#Map).
+check [pkg.go.dev/github.com/aeneasr/pool#readme-map](https://pkg.go.dev/github.com/aeneasr/pool#readme-map).
